@@ -12,4 +12,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[A Keyboard Less Typed](j01/)
