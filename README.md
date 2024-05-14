@@ -8,7 +8,7 @@ I have ambitions of programming learning algorithms for animated robots that inc
 
 ## UX Team Project
 
-Coming soon.
+My team and I designed and tested a fuax website we designed and built called Autoscrap.  The vision for this website is to allow users to both purchase and sell car parts with relative ease.  Our demographic is both buyers and sellers alike.  After a fair amount of user tests, we have found that most of our features work as intended while only a handful of features need to be improved or removed altogether.  This experience has taught me how much planning and work needs to go into the design and creation of a website that will be successful in its operation with its userbase.
 
 ## UX Journal
 
